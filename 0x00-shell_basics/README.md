@@ -1,1 +1,1 @@
-hello nairobi
+#!/bin/bash/ls
