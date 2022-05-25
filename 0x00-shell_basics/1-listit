@@ -4,3 +4,5 @@ pwd
 #!/bin/bash
 ls
 pwd
+#!/bin/bash
+ls
