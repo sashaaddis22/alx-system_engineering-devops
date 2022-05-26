@@ -1,2 +1,1 @@
-my first shell permission project
-
+#!/bin/bash
