@@ -1,1 +1,1 @@
-#!/bin/bash
+This is kenya
